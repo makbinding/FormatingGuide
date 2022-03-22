@@ -26,7 +26,7 @@ Identation is 0.5cm on the first line. No margins before or after the paragraph.
 The font is 30pt with a 30pt line height. Margins are 30pt before and after the header. This is meant to be used in Chapters, as the header will be included in the Table of Contents.
 The Title element is identical, but does not appear in the table of contents. USeful for example for the book front page or general purpose titles.
 
-# Book Binding Detailes
+# Book Binding Details
 
 The prefered method of binding is sewn and the page size is usually A5 just because of the easy availability of A4 paper. If you want proper paper grain, then the easiest way to get quality paper is probably to get A3 sheets and cut them (not in half)
 
@@ -38,5 +38,3 @@ The suggested dimensions are
 For more information and help you may want to refer to the DAS Bookbinding channel on youtube.
 https://www.youtube.com/channel/UCbCGQEhxF94sQqb3zUqChXw
 
-
-asd
