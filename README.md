@@ -8,7 +8,7 @@ The elements described below roughly correspond to the template's formatting ele
 ## Rythm
 
 15pt
-The rythm of the book is defined by the line height, so that all page elements align with each other. 
+The rythm of the book is defined by the line height, so that all page elements align with each other accross the 2 pages. 
 
 ## Margins
 All margins are defined at 1.8cm. The default gutter is 5mm, but it is advised to change it based on the thickness and binding of the book.
