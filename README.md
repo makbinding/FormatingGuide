@@ -23,8 +23,9 @@ Identation is 0.5cm on the first line. No margins before or after the paragraph.
 
 ## Header, Title
 
-The font is 30pt with a 30pt line height. Margins are 30pt before and after the header. This is meant to be used in Chapters, as the header will be included in the Table of Contents.
-The Title element is identical, but does not appear in the table of contents. USeful for example for the book front page or general purpose titles.
+- The font is 30pt with a 30pt line height. 
+- Margins are 30pt before and after the header. This is meant to be used in Chapters, as the header will be included in the Table of Contents.
+- The Title element is identical, but does not appear in the table of contents. Useful for example for the book front page or general purpose titles.
 
 # Book Binding Details
 
