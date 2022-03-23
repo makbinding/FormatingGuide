@@ -31,9 +31,9 @@ The Title element is identical, but does not appear in the table of contents. US
 The prefered method of binding is sewn and the page size is usually A5 just because of the easy availability of A4 paper. If you want proper paper grain, then the easiest way to get quality paper is probably to get A3 sheets and cut them (not in half)
 
 The suggested dimensions are
-4mm square
-12mm hinge
-218mm x 142mm covers
+- 4mm square
+- 12mm hinge
+- 218mm x 142mm covers boards
 
 For more information and help you may want to refer to the DAS Bookbinding channel on youtube.
 https://www.youtube.com/channel/UCbCGQEhxF94sQqb3zUqChXw
