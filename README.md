@@ -6,17 +6,23 @@ This guide is meant as a brief description of the template used in the Makbindin
 
 ## Rythm
 
-The rythm of the book is defined by the line spacing (at least 15pt). This allows all page elements to align with each other accross pages, as long as their heigth and margins are a multiple of the line spacing. 
+The rythm of the book is defined by the line spacing. This allows all page elements to align with each other accross pages, as long as their heigth and margins are a multiple of the line spacing. 
+
+Current selection is 15pt which gives ~40 lines in an A5 sized textblock. 
+
 You need to pay attention to images. They should be kept inline to avoid moving them outside of the line spacing grid. Their height is in cm, but you can manually define it in pt and the application will automatically  translate it to cm.
 
+Changing the grid lines to 15pt also gives a nice visual verification that everything in the page follows the rythm.
+
 ## Margins
-- All margins are defined at 1.8cm. 
+- Side margins are defined at 1.8cm. 
+- Top and bottom are 4 x line spacing = 60pt which corresponds to ~2.1cm
 - The default gutter is 5mm, but you should change it based on the thickness and binding of the book.
 
 ## Font
 
-- 11pt Garamond
-- 30pt Goody Old Style
+- 12pt Garamond for text. It's a bit large to be easier to read. 11pt will work nicely as well with the 15pt line spacing
+- 30pt Goody Old Style for titles
 
 ## Paragraph
 
