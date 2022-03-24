@@ -1,7 +1,6 @@
 # Makbinding Formatting Guide
 
-This guide is meant as a brief description of the template used in the Makbinding books
-The elements described below roughly correspond to the template's formatting elements.
+This guide is meant as a brief description of the template used in the Makbinding books. The elements described below roughly correspond to the template's formatting elements.
 
 # Word Template Details
 
@@ -11,11 +10,12 @@ The rythm of the book is defined by the line height (15pt), so that all page ele
 
 ## Margins
 - All margins are defined at 1.8cm. 
-- The default gutter is 5mm, but it is advised to change it based on the thickness and binding of the book.
+- The default gutter is 5mm, but you should change it based on the thickness and binding of the book.
 
 ## Font
 
-Font: 11pt Garamond
+- 11pt Garamond
+- 30pt Goody Old Style
 
 ## Paragraph
 
