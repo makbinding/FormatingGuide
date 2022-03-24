@@ -19,6 +19,9 @@ Changing the grid lines to 15pt also gives a nice visual verification that every
 - Top and bottom are 4 x line spacing = 60pt which corresponds to ~2.1cm
 - The default gutter is 5mm, but you should change it based on the thickness and binding of the book.
 
+## Header / Footer
+The top/bottom margins allows us to also have rythm at the header and footer if we set their distance from top/bottom to 0.
+
 ## Font
 
 - 12pt Garamond for text. It's a bit large to be easier to read. 11pt will work nicely as well with the 15pt line spacing
