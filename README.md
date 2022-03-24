@@ -6,7 +6,8 @@ This guide is meant as a brief description of the template used in the Makbindin
 
 ## Rythm
 
-The rythm of the book is defined by the line height (15pt), so that all page elements align with each other accross the 2 pages. You need to pay attention to images.
+The rythm of the book is defined by the line spacing (at least 15pt). This allows all page elements to align with each other accross pages, as long as their heigth and margins are a multiple of the line spacing. 
+You need to pay attention to images. They should be kept inline to avoid moving them outside of the line spacing grid. Their height is in cm, but you can manually define it in pt and the application will automatically  translate it to cm.
 
 ## Margins
 - All margins are defined at 1.8cm. 
