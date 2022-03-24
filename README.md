@@ -38,7 +38,7 @@ The suggested dimensions are
 - 4mm square
 - 10mm hinge (8mm + thickness)
 - Cover boards:
-  - 210 + 2x4 = 218mm height
+  - 210 + 2 x square = 218mm height
   - 148 + square - hinge = 142mm width
 
 For more information and help you may want to refer to the DAS Bookbinding channel on youtube.
