@@ -32,14 +32,16 @@ The rythm of the book is defined by the line height (15pt), so that all page ele
 
 # Book Binding Details
 
-The prefered method of binding is sewn and the page size is usually A5 just because of the easy availability of A4 paper. If you want proper paper grain, then the easiest way to get quality paper is probably to get A3 sheets and cut them (not in half)
+The prefered method is sewn case binding. The page size is A5 just because of the easy availability of A4 paper. If you want proper paper grain, then the easiest way to get quality paper is probably to get A3 sheets and cut them (not in half)
 
 The suggested dimensions are
+- 16 page signatures (adjust according to the required swell)
 - 4mm square
 - 10mm hinge (8mm + thickness)
 - Cover boards:
   - 210 + 2 x square = 218mm height
   - 148 + square - hinge = 142mm width
+  - 2mm thickness (suggested to use 1mm if less than 100 pages)
 
 For more information and help you may want to refer to the DAS Bookbinding channel on youtube.
 https://www.youtube.com/channel/UCbCGQEhxF94sQqb3zUqChXw
