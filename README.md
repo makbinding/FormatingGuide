@@ -36,10 +36,10 @@ The prefered method of binding is sewn and the page size is usually A5 just beca
 
 The suggested dimensions are
 - 4mm square
-- 12mm hinge (8mm + 2 x thickness)
+- 10mm hinge (8mm + thickness)
 - Cover boards:
   - 210 + 2x4 = 218mm height
-  - 148 + 4 - 10 = 142mm width
+  - 148 + square - hinge = 142mm width
 
 For more information and help you may want to refer to the DAS Bookbinding channel on youtube.
 https://www.youtube.com/channel/UCbCGQEhxF94sQqb3zUqChXw
