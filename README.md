@@ -20,7 +20,7 @@ Changing the grid lines to 15pt also gives a nice visual verification that every
 - The default gutter is 5mm, but you should change it based on the thickness and binding of the book.
 
 ## Header / Footer
-The top/bottom margins allows us to also have rythm at the header and footer if we set their distance from top/bottom to 0.
+The top/bottom margins allow us to also have rythm at the header and footer if we set their distance from top/bottom to 0.
 
 ## Font
 
