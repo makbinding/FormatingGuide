@@ -26,19 +26,15 @@ Keeping a rythm and selecting multiples is the first step to also making your bo
 ## Header / Footer
 The top/bottom margins allow us to also have rythm at the header and footer if we set their distance from top/bottom to 0.
 
-## Font
-
-- 12pt Garamond for text. It's a bit large to be easier to read. 11pt will work nicely as well with the 15pt line spacing
-- 30pt Goody Old Style for titles
-
 ## Paragraph
 
+- 12pt Garamond. It's a bit large to be easier to read. 11pt will work nicely as well with the 15pt line spacing
 - Identation is 0.5cm on the first line. 
 - No margins before or after the paragraph.
 
 ## Header, Title
 
-- The font is 30pt with a 30pt line height. 
+- 30pt Goody Old Style with a 30pt line height. 
 - Margins are 30pt before and after the header. This is meant to be used in Chapters, as the header will be included in the Table of Contents.
 - The Title element is identical, but does not appear in the table of contents. Useful for example for the book front page or general purpose titles.
 - You can select a page break before each header
