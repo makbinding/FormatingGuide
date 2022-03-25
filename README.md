@@ -55,6 +55,9 @@ The suggested dimensions are
   - 148 + square - hinge = 142mm width
   - 2mm thickness (suggested to use 1mm if less than 100 pages)
 
+Signature holes for A5 paper and 20mm cotton tapes:
+10mm - 60mm - 20mm - 70mm - 20mm - 60mm - 10mm
+
 For more information and help you may want to refer to the DAS Bookbinding channel on youtube.
 https://www.youtube.com/channel/UCbCGQEhxF94sQqb3zUqChXw
 
