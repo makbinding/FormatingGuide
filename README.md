@@ -44,6 +44,8 @@ The top/bottom margins allow us to also have rythm at the header and footer if w
 
 The prefered method is sewn case binding. The page size is A5 just because of the easy availability of A4 paper. If you want proper paper grain, then the easiest way to get quality paper is probably to get A3 sheets and cut them (not in half)
 
+Word can print the signatures in the correct order. Printing to pdf first allows you to easily review your settings for errors and gives you a reprintable final document.
+
 The suggested dimensions are
 - 16 page signatures (adjust according to the required swell)
 - 4mm square
