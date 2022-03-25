@@ -1,18 +1,22 @@
-# Makbinding Formatting Guide
+# Formatting Guide
 
-This guide is meant as a brief description of the template used in the Makbinding books. The elements described below roughly correspond to the template's formatting elements.
+This guide is meant as a brief description of the template used for the printed books. The elements described below roughly correspond to the template's formatting elements. 
+
+Although this is for the printed books, some of its rules can be also applied to e-books. You will however have to keep the text re-flowable, so the fixed-height choices will have to be redefined.
 
 # Word Template Details
 
 ## Rythm
 
-The rythm of the book is defined by the line spacing. This allows all page elements to align with each other accross pages, as long as their heigth and margins are a multiple of the line spacing. 
+The rythm of the book is defined by the line spacing. This defines our grid and allows all page elements to align with each other accross pages. This requires that all elements' height and margins are a multiple of the line spacing. 
 
-Current selection is 15pt which gives ~40 lines in an A5 sized textblock. 
+Current choice is 15pt which gives ~40 lines in an A5 sized textblock. 
 
 You need to pay attention to images. They should be kept inline to avoid moving them outside of the line spacing grid. Their height is in cm, but you can manually define it in pt and the application will automatically  translate it to cm.
 
 Changing the grid lines to 15pt also gives a nice visual verification that everything in the page follows the rythm.
+
+Keeping a rythm and selecting multiples is the first step to also making your book reflowable for e-books. You will just have to define the element heights in relative terms.
 
 ## Margins
 - Side margins are defined at 1.8cm. 
