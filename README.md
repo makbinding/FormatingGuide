@@ -8,7 +8,7 @@ Although this is for the printed books, some of its rules can be also applied to
 
 ## Rythm
 
-The rythm of the book is defined by the line spacing. This defines our grid and allows all page elements to align with each other accross pages. This requires that all elements' height and margins are a multiple of the line spacing. 
+The rythm of the book is defined by the line spacing. This defines our grid and allows all page elements to align with each other accross pages. This requires that all element heights and margins are a multiple of the line spacing. 
 
 Current choice is 15pt which gives ~40 lines in an A5 sized textblock. 
 
