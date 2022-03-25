@@ -16,7 +16,7 @@ You need to pay attention to images. They should be kept inline to avoid moving 
 
 Changing the grid lines to 15pt also gives a nice visual verification that everything in the page follows the rythm.
 
-Keeping a rythm and selecting multiples is the first step to also making your book reflowable for e-books. You will just have to define the element heights in relative terms. Unfortunately word is terrible in this.
+Keeping a rythm and selecting multiples is the first step to also making your book reflowable for e-books. You will just have to define the element heights in relative terms. Unfortunately word is terrible in this. Html and css is what you really need.
 
 ## Margins
 - Side margins are defined at 1.8cm. 
