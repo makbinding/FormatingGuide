@@ -12,7 +12,7 @@ The rythm of the book is defined by the line spacing. This defines our grid and 
 
 Current choice is 15pt which gives ~40 lines in an A5 sized textblock. 
 
-You need to pay attention to images. They should be kept inline to avoid moving them outside of the line spacing grid. Their height is in cm, but you can manually define it in pt and the application will automatically  translate it to cm.
+You need to pay attention to images. They should be kept inline to avoid moving them outside of the line spacing grid. Their height is in cm, but you can manually define it in pt and word will automatically  translate it to cm.
 
 Changing the grid lines to 15pt also gives a nice visual verification that everything in the page follows the rythm.
 
