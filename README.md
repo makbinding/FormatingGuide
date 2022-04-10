@@ -49,11 +49,11 @@ Word can print the signatures in the correct order. Printing to pdf first allows
 The suggested dimensions are
 - 16 page signatures (adjust according to the required swell)
 - 4mm square
+- 2mm thickness 
 - 8mm hinge (8mm + thickness = ~10mm diagonal)
 - Cover boards:
   - 210 + 2 x square = 218mm height
   - 148 + square - hinge = 144mm width
-  - 2mm thickness (suggested to use 1mm if less than 100 pages)
 
 Signature holes for A5 paper and 20mm cotton tapes:
 10mm - 60mm - 20mm - 70mm - 20mm - 60mm - 10mm
